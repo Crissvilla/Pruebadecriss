@@ -1,0 +1,26 @@
+{
+  "name": "majori-sushi-web",
+  "version": "1.0.0",
+  "description": "Sitio web e intranet de Majori Sushi Los Laureles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crissvilla/Pruebadecriss.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crissvilla/Pruebadecriss/issues"
+  },
+  "homepage": "https://github.com/Crissvilla/Pruebadecriss#readme",
+  "dependencies": {
+    "express": "^4.22.3"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
